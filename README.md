@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Ayush Kashyap 👋</h1>
+Hi, I'm Ayush Kashyap 👋
 
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Pandas • Power BI</h3>
 
